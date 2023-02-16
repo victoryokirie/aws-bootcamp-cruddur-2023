@@ -21,3 +21,9 @@ I created an admin user named victoryokirie
 ### Creating a Budget
 I am created a budget for this bootcamp and I called it AWS Cloud Bootcamp Budget
 ![AWS-bootcamp-budget](assets/budget.png)
+
+</br>
+
+### Creating a Billing Alarm
+I am created a billing alarm for this bootcamp
+![AWS-bootcamp-budget](assets/billing-alarm.png)
