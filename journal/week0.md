@@ -11,4 +11,13 @@ I was able to recreate a logical architectural diagram in Lucid Charts. A screen
 ### Creating an Admin User
 I created an admin user named victoryokirie
 ![admin-user-group](assets/user-groups.png)
+
+</br>
+
 ![admin-user](assets/user.png)
+
+</br>
+
+### Creating a Budget
+I am created a budget for this bootcamp and I called it AWS Cloud Bootcamp Budget
+![AWS-bootcamp-budget](assets/budget.png)
