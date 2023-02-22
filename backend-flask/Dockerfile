@@ -17,7 +17,7 @@ RUN pip3 install -r requirements.txt
 # copy everything in the current directory
 # first period . - /backend-flask (outside container)
 # second period . - /backend-flask (insider container)
-
+COPY . .
 
 # set environment variables (Env Vars)
 # inside container and will remain set when the container is run 
